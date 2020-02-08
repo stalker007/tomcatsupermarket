@@ -5,4 +5,4 @@ From tomcat:8-jre8
 MAINTAINER "admin <admin1234@gmail.com">
 
 # Copy to images tomcat path
-ADD indiatestapp.war /usr/local/tomcat/webapps/
+ADD supermarket.war /usr/local/tomcat/webapps/
